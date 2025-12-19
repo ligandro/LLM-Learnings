@@ -1,6 +1,8 @@
 # LLM Learnings Repository
 
 A comprehensive collection of Large Language Model concepts, implementations, and experiments.
+You should ideally have a understanding of deep learning and NLP fundamentals to make the most out of this repository.
+This reportory is based on what I have learned from various resources and my own experiments with LLMs.
 
 
 ---
@@ -23,6 +25,9 @@ Resources & References
 LLM-Learnings/
 │
 ├── 1_Foundations/              # Basic concepts and building blocks
+├── Statistical_Language_Models & Smoothing techniques/
+├── Deep Learning Basics and Models such as RNN, LSTM, GRU, CNN are not included for now and can be referred from other sources/
+
 │
 ├── 2_Model_Training/           # Training and fine-tuning strategies
 │   ├── Pre-training/           # Pre-training from scratch
