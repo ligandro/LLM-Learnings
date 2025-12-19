@@ -1,0 +1,60 @@
+# Folders - Ignore all except Foundations and Resources
+2_Model_Training/
+3_Inference_Optimization/
+4_Applications/
+5_Advanced_Topics/
+6_Projects/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+*.env
+
+# Models & Data
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+models/
+checkpoints/
+
+# Cache
+cache/
+*.cache
+chroma_db/
+vector_store/
+
+# Logs
+*.log
+logs/
+wandb/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+outputs/
