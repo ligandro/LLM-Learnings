@@ -2,6 +2,21 @@
 
 A comprehensive collection of Large Language Model concepts, implementations, and experiments.
 
+
+---
+Resources & References
+
+## 📚 Online Courses & Books
+
+- **Introduction to Large Language Models IIT Delhi** - [YouTube Playlist](https://youtube.com/playlist?list=PLp6ek2hDcoNDDRINFiWGDlPKUwW-g1Hjk&si=sIeiTZMUHzAH6REY)
+- **LLM-engineer-handbook-Labonne** - [Github](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
+
+---
+
+## 📖 Papers
+
+- 
+---
 ## 📂 Repository Structure
 
 ```
