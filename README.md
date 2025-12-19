@@ -26,7 +26,8 @@ LLM-Learnings/
 │
 ├── 1_Foundations/              # Basic concepts and building blocks
 ├── Statistical_Language_Models & Smoothing techniques/
-├── Deep Learning Basics and Models such as RNN, LSTM, GRU, CNN are not included for now and can be referred from other sources/
+├── Deep Learning Basics and Models such as RNN, LSTM, GRU, CNN are not included for now and can be 
+    referred from other sources/
 
 │
 ├── 2_Model_Training/           # Training and fine-tuning strategies
