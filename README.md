@@ -28,7 +28,7 @@ LLM-Learnings/
 ├── Statistical_Language_Models & Smoothing techniques/
 ├── Deep Learning Basics and Models such as RNN, LSTM, GRU, CNN are not included for now and can be 
     referred from other sources/
-
+├── For Pytorch you can refer to [Link](https://youtu.be/Z_ikDlimN6A?si=7Dbpu8T0erpjG9Rh) 
 │
 ├── 2_Model_Training/           # Training and fine-tuning strategies
 │   ├── Pre-training/           # Pre-training from scratch
